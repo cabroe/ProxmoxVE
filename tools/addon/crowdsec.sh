@@ -180,4 +180,4 @@ elif [ "$OS" = "debian" ]; then
   echo -e "• Enroll console: ${YW}cscli console enroll -e context <your-key>${CL}"
 fi
 
-msg_ok "Completed Successfully!\n"
+msg_ok "Completed Successfully!"
